@@ -27,6 +27,7 @@ function App() {
     {/* <Login/> */}
     {/* <Counter/> */}
     <Fruits/>
+    
     </>
   )
 }
